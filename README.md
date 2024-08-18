@@ -45,7 +45,7 @@ The dataset used in this analysis includes the following columns:
 6. **Evaluation:**
    - Classification report, confusion matrix, and accuracy score are used to evaluate model performance.
 
-
+  
 ## Results
 
 The Logistic Regression model achieved an accuracy score of approximately 0.785. Detailed metrics including classification report and confusion matrix provide further insights into model performance.
